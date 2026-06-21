@@ -1,2 +1,14 @@
 # sina-hub-notes
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+本仓库保存页面发布过程中生成的文件，便于统一归档。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 状态说明
+
+页面文件会按任务写入，仓库提交记录可用于查看变化。
